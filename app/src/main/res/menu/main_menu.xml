@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.goatsandtigers.crypticcrosswords.CrypticCrosswordActivity" >
+
+    <item
+        android:id="@+id/action_view_history"
+        android:orderInCategory="100"
+        android:title="View history"/>
+
+</menu>
